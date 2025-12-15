@@ -1,0 +1,8 @@
+fastapi~=0.121.1
+uvicorn
+sqlalchemy~=2.0.44
+psycopg2-binary
+aio-pika~=9.5.7
+pydantic~=2.12.4
+pytest~=9.0.0
+app~=0.0.1
